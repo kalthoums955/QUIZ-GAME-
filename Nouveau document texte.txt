@@ -1,0 +1,1 @@
+le projet s'agit d'un jeu quiz sur le thème coupe du monde QATAR 2022 il contient 5 questions chaque questions à 4 propositions avec une seule bonne réponse , suite de votre jeu il ya un score à gagner
